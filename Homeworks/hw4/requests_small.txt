@@ -1,0 +1,27 @@
+dvd "Into the Wild" 3
+dvd "Forrest Gump" 2
+dvd "Gone with the Wind" 2
+dvd "Raiders of the Lost Ark" 1
+dvd "Toy Story" 3
+customer Carol Adams 4
+  "Raiders of the Lost Ark"
+  "Gone with the Wind"
+  "Forrest Gump"
+  "Into the Wild" 
+customer Kim Smith 3
+  "Raiders of the Lost Ark"
+  "Into the Wild"
+  "Gone with the Wind"
+customer Wayne Evans 1
+  "Raiders of the Lost Ark"
+ship
+return_newest Carol Adams
+return_oldest Kim Smith
+add_preference Carol Adams "Toy Story" 
+ship
+return_newest Carol Adams
+ship
+print_customer Carol Adams
+print_customer Wayne Evans
+print_dvd "Toy Story"
+print_dvd "Gone with the Wind"

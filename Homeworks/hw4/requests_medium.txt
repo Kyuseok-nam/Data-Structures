@@ -1,0 +1,489 @@
+dvd "Yojimbo" 2
+dvd "Moulin Rouge" 3
+dvd "Pan's Labyrinth" 2
+dvd "Amelie" 2
+dvd "Grave of the Fireflies" 2
+dvd "The Treasure of the Sierra Madre" 2
+dvd "2001: A Space Odyssey" 2
+dvd "A Fistful of Dollars" 3
+dvd "The Sting" 3
+dvd "American History X" 2
+dvd "The Shawshank Redemption" 3
+dvd "Lawrence of Arabia" 1
+dvd "Taxi Driver" 1
+dvd "Aliens" 1
+dvd "Star Wars: Episode V - The Empire Strikes Back" 1
+dvd "The Good, the Bad and the Ugly" 2
+dvd "Eternal Sunshine of the Spotless Mind" 2
+dvd "Kill Bill: Vol. 1" 3
+dvd "One Flew Over the Cuckoo's Nest" 2
+dvd "North by Northwest" 3
+dvd "The Shawshank Redemption" 2
+customer Ed Miller 16
+  "Lawrence of Arabia"
+  "The Good, the Bad and the Ugly"
+  "Amelie"
+  "Pan's Labyrinth"
+  "The Shawshank Redemption"
+  "Kill Bill: Vol. 1"
+  "The Sting"
+  "Aliens"
+  "Apocalypse Now"
+  "American History X"
+  "One Flew Over the Cuckoo's Nest"
+  "The Treasure of the Sierra Madre"
+  "Yojimbo"
+  "Taxi Driver"
+  "Star Wars: Episode V - The Empire Strikes Back"
+  "Grave of the Fireflies"
+customer Georgiana Myers 10
+  "Taxi Driver"
+  "Grave of the Fireflies"
+  "Apocalypse Now"
+  "The Treasure of the Sierra Madre"
+  "Star Wars: Episode V - The Empire Strikes Back"
+  "Lawrence of Arabia"
+  "The Shawshank Redemption"
+  "Eternal Sunshine of the Spotless Mind"
+  "Pan's Labyrinth"
+  "The Good, the Bad and the Ugly"
+customer Albert Kramer 19
+  "Moulin Rouge"
+  "Apocalypse Now"
+  "Eternal Sunshine of the Spotless Mind"
+  "Kill Bill: Vol. 1"
+  "The Sting"
+  "American History X"
+  "Aliens"
+  "The Shawshank Redemption"
+  "Pan's Labyrinth"
+  "Lawrence of Arabia"
+  "Taxi Driver"
+  "The Treasure of the Sierra Madre"
+  "One Flew Over the Cuckoo's Nest"
+  "2001: A Space Odyssey"
+  "Grave of the Fireflies"
+  "A Fistful of Dollars"
+  "Yojimbo"
+  "Star Wars: Episode V - The Empire Strikes Back"
+  "The Good, the Bad and the Ugly"
+customer Susan Ford 10
+  "Yojimbo"
+  "2001: A Space Odyssey"
+  "American History X"
+  "Taxi Driver"
+  "A Fistful of Dollars"
+  "Aliens"
+  "One Flew Over the Cuckoo's Nest"
+  "Eternal Sunshine of the Spotless Mind"
+  "Amelie"
+  "The Shawshank Redemption"
+customer Albert Evans 1
+  "Taxi Driver"
+customer Elizabeth Brown 19
+  "Kill Bill: Vol. 1"
+  "American History X"
+  "Taxi Driver"
+  "The Shawshank Redemption"
+  "Star Wars: Episode V - The Empire Strikes Back"
+  "2001: A Space Odyssey"
+  "The Sting"
+  "Apocalypse Now"
+  "Eternal Sunshine of the Spotless Mind"
+  "Yojimbo"
+  "The Good, the Bad and the Ugly"
+  "One Flew Over the Cuckoo's Nest"
+  "Amelie"
+  "Grave of the Fireflies"
+  "Moulin Rouge"
+  "Aliens"
+  "The Treasure of the Sierra Madre"
+  "Lawrence of Arabia"
+  "Pan's Labyrinth"
+customer Harold Evans 11
+  "The Sting"
+  "The Good, the Bad and the Ugly"
+  "2001: A Space Odyssey"
+  "Grave of the Fireflies"
+  "Eternal Sunshine of the Spotless Mind"
+  "Amelie"
+  "The Treasure of the Sierra Madre"
+  "Apocalypse Now"
+  "Aliens"
+  "Yojimbo"
+  "The Good, the Bad and the Ugly"
+customer Susan Ford 6
+  "Aliens"
+  "One Flew Over the Cuckoo's Nest"
+  "The Shawshank Redemption"
+  "Yojimbo"
+  "Taxi Driver"
+  "A Fistful of Dollars"
+customer Helen Roberts 14
+  "Apocalypse Now"
+  "Aliens"
+  "Grave of the Fireflies"
+  "Taxi Driver"
+  "Moulin Rouge"
+  "Star Wars: Episode V - The Empire Strikes Back"
+  "A Fistful of Dollars"
+  "Amelie"
+  "The Treasure of the Sierra Madre"
+  "Eternal Sunshine of the Spotless Mind"
+  "One Flew Over the Cuckoo's Nest"
+  "Pan's Labyrinth"
+  "Yojimbo"
+  "The Good, the Bad and the Ugly"
+customer Doris Harrison 15
+  "A Fistful of Dollars"
+  "Aliens"
+  "Moulin Rouge"
+  "Yojimbo"
+  "Pan's Labyrinth"
+  "American History X"
+  "Apocalypse Now"
+  "Moulin Rouge"
+  "Eternal Sunshine of the Spotless Mind"
+  "Amelie"
+  "The Sting"
+  "Grave of the Fireflies"
+  "Star Wars: Episode V - The Empire Strikes Back"
+  "The Good, the Bad and the Ugly"
+  "Kill Bill: Vol. 1"
+customer Norman Jones 2
+  "Moulin Rouge"
+  "Yojimbo"
+ship
+return_oldest Ed Miller
+add_preference Georgiana Myers "2001: A Space Odyssey"
+return_oldest Frank Kramer
+add_preference Albert Evans "Star Wars: Episode V - The Empire Strikes Back"
+return_oldest Norman Jones
+ship
+add_preference Ed Miller "Grave of the Fireflies"
+return_oldest Georgiana Myers
+return_oldest Elizabeth Brown
+return_newest Harold Evans
+return_oldest Helen Roberts
+return_newest Norman Jones
+ship
+return_oldest Ed Miller
+return_oldest Georgiana Myers
+return_oldest Albert Kramer
+add_preference Albert Evans "Aliens"
+return_oldest Elizabeth Brown
+return_newest Doris Harrison
+ship
+return_oldest Ed Miller
+return_oldest Georgiana Myers
+add_preference Susan Ford "Grave of the Fireflies"
+add_preference Albert Evans "Eternal Sunshine of the Spotless Mind"
+return_oldest Harold Evans
+return_oldest Helen Roberts
+return_newest Norman Jones
+ship
+return_oldest Ed Miller
+return_newest Georgiana Myers
+add_preference Frank Kramer "Aliens"
+add_preference Susan Ford "Lawrence of Arabia"
+return_oldest Elizabeth Brown
+add_preference Harold Evans "American History X"
+return_oldest Doris Harrison
+return_oldest Norman Jones
+ship
+return_oldest Ed Miller
+return_oldest Georgiana Myers
+return_oldest Susan Ford
+return_oldest Albert Evans
+return_oldest Harold Evans
+return_oldest Doris Harrison
+add_preference Norman Jones "Star Wars: Episode V - The Empire Strikes Back"
+ship
+return_oldest Georgiana Myers
+return_newest Albert Kramer
+return_newest Susan Ford
+add_preference Norman Jones "Apocalypse Now"
+ship
+return_oldest Frank Kramer
+return_oldest Albert Evans
+return_oldest Helen Roberts
+ship
+return_oldest Ed Miller
+return_oldest Georgiana Myers
+add_preference Albert Kramer "Amelie"
+return_oldest Susan Ford
+return_newest Harold Evans
+return_newest Helen Roberts
+return_oldest Doris Harrison
+return_oldest Norman Jones
+ship
+print_customer Ed Miller
+print_customer Georgiana Myers
+print_customer Frank Kramer
+print_customer Susan Ford
+print_customer Albert Evans
+print_customer Elizabeth Brown
+print_customer Harold Evans
+print_customer Helen Roberts
+print_customer Doris Harrison
+print_customer Norman Jones
+print_dvd "Yojimbo"
+print_dvd "Moulin Rouge"
+print_dvd "Pan's Labyrinth"
+print_dvd "Amelie"
+print_dvd "Grave of the Fireflies"
+print_dvd "The Treasure of the Sierra Madre"
+print_dvd "2001: A Space Odyssey"
+print_dvd "A Fistful of Dollars"
+print_dvd "The Sting"
+print_dvd "American History X"
+print_dvd "The Shawshank Redemption"
+print_dvd "Lawrence of Arabia"
+print_dvd "Taxi Driver"
+print_dvd "Aliens"
+print_dvd "Star Wars: Episode V - The Empire Strikes Back"
+print_dvd "The Good, the Bad and the Ugly"
+print_dvd "Eternal Sunshine of the Spotless Mind"
+print_dvd "Kill Bill: Vol. 1"
+print_dvd "One Flew Over the Cuckoo's Nest"
+print_dvd "Apocalypse Now"
+print_dvd "North by Northwest"
+return_oldest Georgiana Myers
+add_preference Albert Kramer "Taxi Driver"
+add_preference Susan Ford "Star Wars: Episode V - The Empire Strikes Back"
+add_preference Harold Evans "Star Wars: Episode V - The Empire Strikes Back"
+return_newest Helen Roberts
+return_oldest Doris Harrison
+return_oldest Norman Jones
+ship
+return_oldest Ed Miller
+add_preference Susan Ford "The Treasure of the Sierra Madre"
+add_preference Albert Evans "Yojimbo"
+return_oldest Elizabeth Brown
+return_oldest Helen Roberts
+return_oldest Doris Harrison
+return_oldest Norman Jones
+ship
+return_oldest Ed Miller
+return_oldest Georgiana Myers
+return_oldest Frank Kramer
+return_oldest Susan Ford
+add_preference Albert Evans "Apocalypse Now"
+add_preference Elizabeth Brown "Apocalypse Now"
+return_oldest Harold Evans
+add_preference Helen Roberts "Star Wars: Episode V - The Empire Strikes Back"
+ship
+return_oldest Georgiana Myers
+return_oldest Albert Kramer
+return_oldest Albert Evans
+return_oldest Elizabeth Brown
+add_preference Helen Roberts "Amelie"
+return_oldest Doris Harrison
+return_newest Norman Jones
+ship
+add_preference Ed Miller "Lawrence of Arabia"
+add_preference Georgiana Myers "Moulin Rouge"
+return_newest Frank Kramer
+return_oldest Susan Ford
+add_preference Elizabeth Brown "Apocalypse Now"
+return_newest Helen Roberts
+return_newest Doris Harrison
+return_oldest Norman Jones
+ship
+add_preference Albert Kramer "The Treasure of the Sierra Madre"
+add_preference Susan Ford "American History X"
+return_oldest Albert Evans
+return_newest Elizabeth Brown
+return_oldest Helen Roberts
+add_preference Norman Jones "Lawrence of Arabia"
+ship
+return_oldest Ed Miller
+add_preference Georgiana Myers "One Flew Over the Cuckoo's Nest"
+add_preference Frank Kramer "Grave of the Fireflies"
+add_preference Susan Ford "A Fistful of Dollars"
+return_oldest Harold Evans
+return_oldest Helen Roberts
+add_preference Doris Harrison "The Shawshank Redemption"
+ship
+add_preference Georgiana Myers "Lawrence of Arabia"
+return_oldest Albert Kramer
+return_oldest Susan Ford
+return_oldest Albert Evans
+return_oldest Elizabeth Brown
+add_preference Doris Harrison "Kill Bill: Vol. 1"
+return_newest Norman Jones
+ship
+add_preference Georgiana Myers "One Flew Over the Cuckoo's Nest"
+add_preference Susan Ford "Eternal Sunshine of the Spotless Mind"
+add_preference Albert Evans "The Good, the Bad and the Ugly"
+add_preference Elizabeth Brown "Amelie"
+return_newest Harold Evans
+add_preference Helen Roberts "One Flew Over the Cuckoo's Nest"
+add_preference Doris Harrison "Star Wars: Episode V - The Empire Strikes Back"
+add_preference Norman Jones "Aliens"
+ship
+return_oldest Ed Miller
+add_preference Frank Kramer "Amelie"
+return_newest Susan Ford
+return_oldest Albert Evans
+add_preference Elizabeth Brown "Yojimbo"
+return_oldest Harold Evans
+return_newest Doris Harrison
+add_preference Norman Jones "Grave of the Fireflies"
+ship
+print_customer Ed Miller
+print_customer Georgiana Myers
+print_customer Albert Kramer
+print_customer Susan Ford
+print_customer Albert Evans
+print_customer Elizabeth Brown
+print_customer Harold Evans
+print_customer Helen Roberts
+print_customer Doris Harrison
+print_customer Norman Jones
+print_dvd "Yojimbo"
+print_dvd "Moulin Rouge"
+print_dvd "Pan's Labyrinth"
+print_dvd "Amelie"
+print_dvd "Grave of the Fireflies"
+print_dvd "The Treasure of the Sierra Madre"
+print_dvd "2001: A Space Odyssey"
+print_dvd "A Fistful of Dollars"
+print_dvd "The Sting"
+print_dvd "American History X"
+print_dvd "The Shawshank Redemption"
+print_dvd "Lawrence of Arabia"
+print_dvd "Taxi Driver"
+print_dvd "Aliens"
+print_dvd "Star Wars: Episode V - The Empire Strikes Back"
+print_dvd "The Good, the Bad and the Ugly"
+print_dvd "Eternal Sunshine of the Spotless Mind"
+print_dvd "Kill Bill: Vol. 1"
+print_dvd "One Flew Over the Cuckoo's Nest"
+print_dvd "Apocalypse Now"
+print_dvd "North by Northwest"
+return_newest Georgiana Myers
+add_preference Frank Kramer "American History X"
+return_oldest Susan Ford
+add_preference Albert Evans "The Shawshank Redemption"
+return_newest Doris Harrison
+ship
+add_preference Ed Miller "The Treasure of the Sierra Madre"
+return_oldest Albert Kramer
+return_newest Albert Evans
+return_oldest Elizabeth Brown
+return_oldest Harold Evans
+add_preference Helen Roberts "Amelie"
+ship
+return_oldest Georgiana Myers
+add_preference Susan Ford "The Shawshank Redemption"
+add_preference Albert Evans "Apocalypse Now"
+return_oldest Elizabeth Brown
+return_oldest Harold Evans
+return_oldest Doris Harrison
+ship
+return_oldest Ed Miller
+return_oldest Georgiana Myers
+add_preference Susan Ford "Pan's Labyrinth"
+add_preference Albert Evans "Moulin Rouge"
+return_newest Doris Harrison
+add_preference Norman Jones "Lawrence of Arabia"
+ship
+return_oldest Georgiana Myers
+add_preference Susan Ford "Amelie"
+return_oldest Albert Evans
+return_newest Helen Roberts
+add_preference Doris Harrison "Moulin Rouge"
+return_oldest Norman Jones
+ship
+add_preference Ed Miller "The Treasure of the Sierra Madre"
+add_preference Frank Kramer "A Fistful of Dollars"
+return_oldest Elizabeth Brown
+add_preference Helen Roberts "Eternal Sunshine of the Spotless Mind"
+return_newest Doris Harrison
+add_preference Norman Jones "Moulin Rouge"
+ship
+return_oldest Georgiana Myers
+return_oldest Albert Kramer
+return_oldest Susan Ford
+return_oldest Elizabeth Brown
+return_oldest Helen Roberts
+return_oldest Doris Harrison
+ship
+add_preference Georgiana Myers "Amelie"
+return_oldest Frank Kramer
+add_preference Susan Ford "Aliens"
+add_preference Doris Harrison "One Flew Over the Cuckoo's Nest"
+return_oldest Norman Jones
+ship
+add_preference Albert Evans "American History X"
+return_oldest Harold Evans
+add_preference Helen Roberts "Yojimbo"
+ship
+add_preference Ed Miller "Kill Bill: Vol. 1"
+return_newest Georgiana Myers
+return_oldest Albert Kramer
+add_preference Elizabeth Brown "Taxi Driver"
+return_oldest Helen Roberts
+return_oldest Doris Harrison
+ship
+print_customer Ed Miller
+print_customer Georgiana Myers
+print_customer Frank Kramer
+print_customer Susan Ford
+print_customer Albert Evans
+print_customer Elizabeth Brown
+print_customer Harold Evans
+print_customer Helen Roberts
+print_customer Doris Harrison
+print_customer Norman Jones
+print_dvd "Yojimbo"
+print_dvd "Moulin Rouge"
+print_dvd "Pan's Labyrinth"
+print_dvd "Amelie"
+print_dvd "Grave of the Fireflies"
+print_dvd "The Treasure of the Sierra Madre"
+print_dvd "2001: A Space Odyssey"
+print_dvd "A Fistful of Dollars"
+print_dvd "The Sting"
+print_dvd "American History X"
+print_dvd "The Shawshank Redemption"
+print_dvd "Lawrence of Arabia"
+print_dvd "Taxi Driver"
+print_dvd "Aliens"
+print_dvd "Star Wars: Episode V - The Empire Strikes Back"
+print_dvd "The Good, the Bad and the Ugly"
+print_dvd "Eternal Sunshine of the Spotless Mind"
+print_dvd "Kill Bill: Vol. 1"
+print_dvd "One Flew Over the Cuckoo's Nest"
+print_dvd "North by Northwest"
+print_customer Ed Miller
+print_customer Georgiana Myers
+print_customer Albert Kramer
+print_customer Susan Ford
+print_customer Albert Evans
+print_customer Elizabeth Brown
+print_customer Harold Evans
+print_customer Helen Roberts
+print_customer Doris Harrison
+print_customer Norman Jones
+print_dvd "Yojimbo"
+print_dvd "Moulin Rouge"
+print_dvd "Pan's Labyrinth"
+print_dvd "Amelie"
+print_dvd "Grave of the Fireflies"
+print_dvd "The Treasure of the Sierra Madre"
+print_dvd "2001: A Space Odyssey"
+print_dvd "A Fistful of Dollars"
+print_dvd "The Sting"
+print_dvd "American History X"
+print_dvd "The Shawshank Redemption"
+print_dvd "Lawrence of Arabia"
+print_dvd "Taxi Driver"
+print_dvd "Aliens"
+print_dvd "Star Wars: Episode V - The Empire Strikes Back"
+print_dvd "The Good, the Bad and the Ugly"
+print_dvd "Eternal Sunshine of the Spotless Mind"
+print_dvd "Kill Bill: Vol. 1"
+print_dvd "One Flew Over the Cuckoo's Nest"
+print_dvd "Apocalypse Now"

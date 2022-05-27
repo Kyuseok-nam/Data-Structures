@@ -1,0 +1,768 @@
+2 copies of "Yojimbo" added
+3 copies of "Moulin Rouge" added
+2 copies of "Pan's Labyrinth" added
+2 copies of "Amelie" added
+2 copies of "Grave of the Fireflies" added
+2 copies of "The Treasure of the Sierra Madre" added
+2 copies of "2001: A Space Odyssey" added
+3 copies of "A Fistful of Dollars" added
+3 copies of "The Sting" added
+2 copies of "American History X" added
+3 copies of "The Shawshank Redemption" added
+1 copy of "Lawrence of Arabia" added
+1 copy of "Taxi Driver" added
+1 copy of "Aliens" added
+1 copy of "Star Wars: Episode V - The Empire Strikes Back" added
+2 copies of "The Good, the Bad and the Ugly" added
+2 copies of "Eternal Sunshine of the Spotless Mind" added
+3 copies of "Kill Bill: Vol. 1" added
+2 copies of "One Flew Over the Cuckoo's Nest" added
+3 copies of "North by Northwest" added
+2 copies of "The Shawshank Redemption" added
+WARNING: No movie named "Apocalypse Now" in the inventory
+new customer: Ed Miller
+WARNING: No movie named "Apocalypse Now" in the inventory
+new customer: Georgiana Myers
+WARNING: No movie named "Apocalypse Now" in the inventory
+new customer: Albert Kramer
+new customer: Susan Ford
+new customer: Albert Evans
+WARNING: No movie named "Apocalypse Now" in the inventory
+new customer: Elizabeth Brown
+WARNING: No movie named "Apocalypse Now" in the inventory
+WARNING: Duplicate movie "The Good, the Bad and the Ugly" on preference list!
+new customer: Harold Evans
+WARNING: Already have a customer named Susan Ford
+WARNING: No movie named "Apocalypse Now" in the inventory
+new customer: Helen Roberts
+WARNING: No movie named "Apocalypse Now" in the inventory
+WARNING: Duplicate movie "Moulin Rouge" on preference list!
+new customer: Doris Harrison
+new customer: Norman Jones
+Ship DVDs
+  Ed Miller receives "Lawrence of Arabia"
+  Georgiana Myers receives "Taxi Driver"
+  Albert Kramer receives "Moulin Rouge"
+  Susan Ford receives "Yojimbo"
+  Elizabeth Brown receives "Kill Bill: Vol. 1"
+  Harold Evans receives "The Sting"
+  Helen Roberts receives "Aliens"
+  Doris Harrison receives "A Fistful of Dollars"
+  Norman Jones receives "Moulin Rouge"
+  Ed Miller receives "The Good, the Bad and the Ugly"
+  Georgiana Myers receives "Grave of the Fireflies"
+  Albert Kramer receives "Eternal Sunshine of the Spotless Mind"
+  Susan Ford receives "2001: A Space Odyssey"
+  Elizabeth Brown receives "American History X"
+  Harold Evans receives "The Good, the Bad and the Ugly"
+  Helen Roberts receives "Grave of the Fireflies"
+  Doris Harrison receives "Moulin Rouge"
+  Norman Jones receives "Yojimbo"
+  Ed Miller receives "Amelie"
+  Georgiana Myers receives "The Treasure of the Sierra Madre"
+  Albert Kramer receives "Kill Bill: Vol. 1"
+  Susan Ford receives "American History X"
+  Elizabeth Brown receives "The Shawshank Redemption"
+  Harold Evans receives "2001: A Space Odyssey"
+  Helen Roberts receives "Star Wars: Episode V - The Empire Strikes Back"
+  Doris Harrison receives "Pan's Labyrinth"
+Ed Miller returns "Lawrence of Arabia"
+WARNING: No customer named Frank Kramer
+Norman Jones returns "Moulin Rouge"
+Ship DVDs
+  Ed Miller receives "Pan's Labyrinth"
+WARNING: Ed Miller already has "Grave of the Fireflies" on his/her preference list!
+Georgiana Myers returns "Taxi Driver"
+Elizabeth Brown returns "Kill Bill: Vol. 1"
+Harold Evans returns "2001: A Space Odyssey"
+Helen Roberts returns "Aliens"
+Norman Jones returns "Yojimbo"
+Ship DVDs
+  Albert Evans receives "Taxi Driver"
+  Georgiana Myers receives "Lawrence of Arabia"
+  Elizabeth Brown receives "2001: A Space Odyssey"
+  Harold Evans receives "Eternal Sunshine of the Spotless Mind"
+  Helen Roberts receives "Moulin Rouge"
+Ed Miller returns "The Good, the Bad and the Ugly"
+Georgiana Myers returns "Grave of the Fireflies"
+Albert Kramer returns "Moulin Rouge"
+Elizabeth Brown returns "American History X"
+Doris Harrison returns "Pan's Labyrinth"
+Ship DVDs
+  Albert Kramer receives "The Sting"
+  Doris Harrison receives "Aliens"
+  Ed Miller receives "The Shawshank Redemption"
+  Georgiana Myers receives "The Shawshank Redemption"
+  Elizabeth Brown receives "The Sting"
+Ed Miller returns "Amelie"
+Georgiana Myers returns "The Treasure of the Sierra Madre"
+Harold Evans returns "The Sting"
+Helen Roberts returns "Grave of the Fireflies"
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Harold Evans receives "Grave of the Fireflies"
+  Helen Roberts receives "A Fistful of Dollars"
+  Ed Miller receives "Kill Bill: Vol. 1"
+  Georgiana Myers receives "Pan's Labyrinth"
+Ed Miller returns "Pan's Labyrinth"
+Georgiana Myers returns "Pan's Labyrinth"
+WARNING: No customer named Frank Kramer
+Elizabeth Brown returns "The Shawshank Redemption"
+Doris Harrison returns "A Fistful of Dollars"
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Doris Harrison receives "Yojimbo"
+  Elizabeth Brown receives "The Good, the Bad and the Ugly"
+  Ed Miller receives "The Sting"
+Ed Miller returns "The Shawshank Redemption"
+Georgiana Myers returns "Lawrence of Arabia"
+Susan Ford returns "Yojimbo"
+Albert Evans returns "Taxi Driver"
+Harold Evans returns "The Good, the Bad and the Ugly"
+Doris Harrison returns "Moulin Rouge"
+Ship DVDs
+  Susan Ford receives "Taxi Driver"
+  Harold Evans receives "Amelie"
+  Georgiana Myers receives "The Good, the Bad and the Ugly"
+  Doris Harrison receives "American History X"
+  Ed Miller receives "One Flew Over the Cuckoo's Nest"
+Georgiana Myers returns "The Shawshank Redemption"
+Albert Kramer returns "The Sting"
+Susan Ford returns "Taxi Driver"
+WARNING: No movie named "Apocalypse Now" in the inventory
+Ship DVDs
+  Albert Kramer receives "The Shawshank Redemption"
+  Susan Ford receives "A Fistful of Dollars"
+WARNING: No customer named Frank Kramer
+WARNING: Albert Evans has no DVDs to return!
+Helen Roberts returns "Star Wars: Episode V - The Empire Strikes Back"
+Ship DVDs
+  Norman Jones receives "Star Wars: Episode V - The Empire Strikes Back"
+  Helen Roberts receives "Taxi Driver"
+Ed Miller returns "Kill Bill: Vol. 1"
+Georgiana Myers returns "The Good, the Bad and the Ugly"
+Susan Ford returns "2001: A Space Odyssey"
+Harold Evans returns "Amelie"
+Helen Roberts returns "Taxi Driver"
+Doris Harrison returns "Aliens"
+Norman Jones returns "Star Wars: Episode V - The Empire Strikes Back"
+Ship DVDs
+  Albert Evans receives "Star Wars: Episode V - The Empire Strikes Back"
+  Harold Evans receives "The Treasure of the Sierra Madre"
+  Georgiana Myers receives "2001: A Space Odyssey"
+  Doris Harrison receives "Amelie"
+  Ed Miller receives "Aliens"
+  Susan Ford receives "One Flew Over the Cuckoo's Nest"
+  Helen Roberts receives "Amelie"
+Ed Miller has 3 movies:
+    "The Sting"
+    "One Flew Over the Cuckoo's Nest"
+    "Aliens"
+  preference list:
+    "American History X"
+    "The Treasure of the Sierra Madre"
+    "Yojimbo"
+    "Taxi Driver"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "Grave of the Fireflies"
+Georgiana Myers has 1 movie:
+    "2001: A Space Odyssey"
+  preference list:
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "Eternal Sunshine of the Spotless Mind"
+WARNING: No customer named Frank Kramer
+Susan Ford has 3 movies:
+    "American History X"
+    "A Fistful of Dollars"
+    "One Flew Over the Cuckoo's Nest"
+  preference list:
+    "Aliens"
+    "Eternal Sunshine of the Spotless Mind"
+    "Amelie"
+    "The Shawshank Redemption"
+    "Grave of the Fireflies"
+    "Lawrence of Arabia"
+Albert Evans has 1 movie:
+    "Star Wars: Episode V - The Empire Strikes Back"
+  preference list:
+    "Aliens"
+    "Eternal Sunshine of the Spotless Mind"
+Elizabeth Brown has 3 movies:
+    "2001: A Space Odyssey"
+    "The Sting"
+    "The Good, the Bad and the Ugly"
+  preference list:
+    "Taxi Driver"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "Eternal Sunshine of the Spotless Mind"
+    "Yojimbo"
+    "One Flew Over the Cuckoo's Nest"
+    "Amelie"
+    "Grave of the Fireflies"
+    "Moulin Rouge"
+    "Aliens"
+    "The Treasure of the Sierra Madre"
+    "Lawrence of Arabia"
+    "Pan's Labyrinth"
+Harold Evans has 3 movies:
+    "Eternal Sunshine of the Spotless Mind"
+    "Grave of the Fireflies"
+    "The Treasure of the Sierra Madre"
+  preference list:
+    "Aliens"
+    "Yojimbo"
+    "American History X"
+Helen Roberts has 3 movies:
+    "Moulin Rouge"
+    "A Fistful of Dollars"
+    "Amelie"
+  preference list:
+    "The Treasure of the Sierra Madre"
+    "Eternal Sunshine of the Spotless Mind"
+    "One Flew Over the Cuckoo's Nest"
+    "Pan's Labyrinth"
+    "Yojimbo"
+    "The Good, the Bad and the Ugly"
+Doris Harrison has 3 movies:
+    "Yojimbo"
+    "American History X"
+    "Amelie"
+  preference list:
+    "Eternal Sunshine of the Spotless Mind"
+    "The Sting"
+    "Grave of the Fireflies"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "The Good, the Bad and the Ugly"
+    "Kill Bill: Vol. 1"
+Norman Jones has no movies
+"Yojimbo":
+  1 copy checked out and 1 copy available
+"Moulin Rouge":
+  1 copy checked out and 2 copies available
+"Pan's Labyrinth":
+  2 copies available
+"Amelie":
+  2 copies checked out
+"Grave of the Fireflies":
+  1 copy checked out and 1 copy available
+"The Treasure of the Sierra Madre":
+  1 copy checked out and 1 copy available
+"2001: A Space Odyssey":
+  2 copies checked out
+"A Fistful of Dollars":
+  2 copies checked out and 1 copy available
+"The Sting":
+  2 copies checked out and 1 copy available
+"American History X":
+  2 copies checked out
+"The Shawshank Redemption":
+  1 copy checked out and 4 copies available
+"Lawrence of Arabia":
+  1 copy available
+"Taxi Driver":
+  1 copy available
+"Aliens":
+  1 copy checked out
+"Star Wars: Episode V - The Empire Strikes Back":
+  1 copy checked out
+"The Good, the Bad and the Ugly":
+  1 copy checked out and 1 copy available
+"Eternal Sunshine of the Spotless Mind":
+  2 copies checked out
+"Kill Bill: Vol. 1":
+  1 copy checked out and 2 copies available
+"One Flew Over the Cuckoo's Nest":
+  2 copies checked out
+WARNING: No movie named "Apocalypse Now" in the inventory
+"North by Northwest":
+  3 copies available
+Georgiana Myers returns "2001: A Space Odyssey"
+WARNING: Albert Kramer already has "Taxi Driver" on his/her preference list!
+Helen Roberts returns "Amelie"
+Doris Harrison returns "Yojimbo"
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Doris Harrison receives "The Sting"
+  Helen Roberts receives "The Treasure of the Sierra Madre"
+Ed Miller returns "The Sting"
+Elizabeth Brown returns "2001: A Space Odyssey"
+Helen Roberts returns "Moulin Rouge"
+Doris Harrison returns "American History X"
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Elizabeth Brown receives "Taxi Driver"
+  Albert Evans receives "Yojimbo"
+  Ed Miller receives "American History X"
+  Doris Harrison receives "Grave of the Fireflies"
+  Helen Roberts receives "Pan's Labyrinth"
+Ed Miller returns "One Flew Over the Cuckoo's Nest"
+WARNING: Georgiana Myers has no DVDs to return!
+WARNING: No customer named Frank Kramer
+Susan Ford returns "American History X"
+WARNING: No movie named "Apocalypse Now" in the inventory
+WARNING: No movie named "Apocalypse Now" in the inventory
+Harold Evans returns "Eternal Sunshine of the Spotless Mind"
+Ship DVDs
+  Harold Evans receives "Yojimbo"
+  Georgiana Myers receives "Eternal Sunshine of the Spotless Mind"
+  Susan Ford receives "Amelie"
+Georgiana Myers returns "Eternal Sunshine of the Spotless Mind"
+Albert Kramer returns "Eternal Sunshine of the Spotless Mind"
+Albert Evans returns "Star Wars: Episode V - The Empire Strikes Back"
+Elizabeth Brown returns "The Sting"
+Doris Harrison returns "Amelie"
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Albert Kramer receives "American History X"
+  Elizabeth Brown receives "Star Wars: Episode V - The Empire Strikes Back"
+  Albert Evans receives "Eternal Sunshine of the Spotless Mind"
+  Doris Harrison receives "Eternal Sunshine of the Spotless Mind"
+WARNING: No customer named Frank Kramer
+Susan Ford returns "A Fistful of Dollars"
+WARNING: No movie named "Apocalypse Now" in the inventory
+Helen Roberts returns "Pan's Labyrinth"
+Doris Harrison returns "Eternal Sunshine of the Spotless Mind"
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Ed Miller receives "Lawrence of Arabia"
+  Helen Roberts receives "Eternal Sunshine of the Spotless Mind"
+  Georgiana Myers receives "Moulin Rouge"
+  Susan Ford receives "The Shawshank Redemption"
+  Doris Harrison receives "The Good, the Bad and the Ugly"
+WARNING: Albert Kramer already has "The Treasure of the Sierra Madre" on his/her preference list!
+Albert Evans returns "Yojimbo"
+Elizabeth Brown returns "Star Wars: Episode V - The Empire Strikes Back"
+Helen Roberts returns "A Fistful of Dollars"
+Ship DVDs
+  Elizabeth Brown receives "Yojimbo"
+  Helen Roberts receives "One Flew Over the Cuckoo's Nest"
+  Georgiana Myers receives "Star Wars: Episode V - The Empire Strikes Back"
+Ed Miller returns "Aliens"
+WARNING: No customer named Frank Kramer
+Harold Evans returns "Grave of the Fireflies"
+Helen Roberts returns "The Treasure of the Sierra Madre"
+Ship DVDs
+  Harold Evans receives "Aliens"
+  Ed Miller receives "The Treasure of the Sierra Madre"
+  Helen Roberts receives "Amelie"
+Albert Kramer returns "Kill Bill: Vol. 1"
+Susan Ford returns "One Flew Over the Cuckoo's Nest"
+Albert Evans returns "Eternal Sunshine of the Spotless Mind"
+Elizabeth Brown returns "The Good, the Bad and the Ugly"
+WARNING: Doris Harrison already has "Kill Bill: Vol. 1" on his/her preference list!
+WARNING: Norman Jones has no DVDs to return!
+Ship DVDs
+  Albert Kramer receives "Pan's Labyrinth"
+  Susan Ford receives "Eternal Sunshine of the Spotless Mind"
+  Elizabeth Brown receives "One Flew Over the Cuckoo's Nest"
+WARNING: Georgiana Myers already has "One Flew Over the Cuckoo's Nest" on his/her preference list!
+WARNING: Susan Ford currently has "Eternal Sunshine of the Spotless Mind"!
+WARNING: Elizabeth Brown already has "Amelie" on his/her preference list!
+Harold Evans returns "Aliens"
+WARNING: Helen Roberts currently has "One Flew Over the Cuckoo's Nest"!
+WARNING: Doris Harrison already has "Star Wars: Episode V - The Empire Strikes Back" on his/her preference list!
+Ship DVDs
+  Norman Jones receives "Aliens"
+  Albert Evans receives "The Good, the Bad and the Ugly"
+Ed Miller returns "American History X"
+WARNING: No customer named Frank Kramer
+Susan Ford returns "Eternal Sunshine of the Spotless Mind"
+Albert Evans returns "The Good, the Bad and the Ugly"
+WARNING: Elizabeth Brown currently has "Yojimbo"!
+Harold Evans returns "The Treasure of the Sierra Madre"
+Doris Harrison returns "The Good, the Bad and the Ugly"
+Ship DVDs
+  Doris Harrison receives "Kill Bill: Vol. 1"
+  Harold Evans receives "American History X"
+  Ed Miller receives "Grave of the Fireflies"
+  Susan Ford receives "The Treasure of the Sierra Madre"
+Ed Miller has 3 movies:
+    "Lawrence of Arabia"
+    "The Treasure of the Sierra Madre"
+    "Grave of the Fireflies"
+  preference list:
+    "Yojimbo"
+    "Taxi Driver"
+    "Star Wars: Episode V - The Empire Strikes Back"
+Georgiana Myers has 2 movies:
+    "Moulin Rouge"
+    "Star Wars: Episode V - The Empire Strikes Back"
+  preference list:
+    "One Flew Over the Cuckoo's Nest"
+    "Lawrence of Arabia"
+Albert Kramer has 3 movies:
+    "The Shawshank Redemption"
+    "American History X"
+    "Pan's Labyrinth"
+  preference list:
+    "Aliens"
+    "Lawrence of Arabia"
+    "Taxi Driver"
+    "The Treasure of the Sierra Madre"
+    "One Flew Over the Cuckoo's Nest"
+    "2001: A Space Odyssey"
+    "Grave of the Fireflies"
+    "A Fistful of Dollars"
+    "Yojimbo"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "The Good, the Bad and the Ugly"
+    "Amelie"
+Susan Ford has 3 movies:
+    "Amelie"
+    "The Shawshank Redemption"
+    "The Treasure of the Sierra Madre"
+  preference list:
+    "Aliens"
+    "Grave of the Fireflies"
+    "Lawrence of Arabia"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "American History X"
+    "A Fistful of Dollars"
+Albert Evans has no movies
+  preference list:
+    "Aliens"
+Elizabeth Brown has 3 movies:
+    "Taxi Driver"
+    "Yojimbo"
+    "One Flew Over the Cuckoo's Nest"
+  preference list:
+    "Eternal Sunshine of the Spotless Mind"
+    "Amelie"
+    "Grave of the Fireflies"
+    "Moulin Rouge"
+    "Aliens"
+    "The Treasure of the Sierra Madre"
+    "Lawrence of Arabia"
+    "Pan's Labyrinth"
+Harold Evans has 2 movies:
+    "Yojimbo"
+    "American History X"
+  preference list:
+    "Star Wars: Episode V - The Empire Strikes Back"
+Helen Roberts has 3 movies:
+    "Eternal Sunshine of the Spotless Mind"
+    "One Flew Over the Cuckoo's Nest"
+    "Amelie"
+  preference list:
+    "Yojimbo"
+    "The Good, the Bad and the Ugly"
+    "Star Wars: Episode V - The Empire Strikes Back"
+Doris Harrison has 3 movies:
+    "The Sting"
+    "Grave of the Fireflies"
+    "Kill Bill: Vol. 1"
+  preference list:
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "The Shawshank Redemption"
+Norman Jones has 1 movie:
+    "Aliens"
+  preference list:
+    "Lawrence of Arabia"
+    "Grave of the Fireflies"
+"Yojimbo":
+  2 copies checked out
+"Moulin Rouge":
+  1 copy checked out and 2 copies available
+"Pan's Labyrinth":
+  1 copy checked out and 1 copy available
+"Amelie":
+  2 copies checked out
+"Grave of the Fireflies":
+  2 copies checked out
+"The Treasure of the Sierra Madre":
+  2 copies checked out
+"2001: A Space Odyssey":
+  2 copies available
+"A Fistful of Dollars":
+  3 copies available
+"The Sting":
+  1 copy checked out and 2 copies available
+"American History X":
+  2 copies checked out
+"The Shawshank Redemption":
+  2 copies checked out and 3 copies available
+"Lawrence of Arabia":
+  1 copy checked out
+"Taxi Driver":
+  1 copy checked out
+"Aliens":
+  1 copy checked out
+"Star Wars: Episode V - The Empire Strikes Back":
+  1 copy checked out
+"The Good, the Bad and the Ugly":
+  2 copies available
+"Eternal Sunshine of the Spotless Mind":
+  1 copy checked out and 1 copy available
+"Kill Bill: Vol. 1":
+  1 copy checked out and 2 copies available
+"One Flew Over the Cuckoo's Nest":
+  2 copies checked out
+WARNING: No movie named "Apocalypse Now" in the inventory
+"North by Northwest":
+  3 copies available
+Georgiana Myers returns "Star Wars: Episode V - The Empire Strikes Back"
+WARNING: No customer named Frank Kramer
+Susan Ford returns "Amelie"
+Doris Harrison returns "Kill Bill: Vol. 1"
+Ship DVDs
+  Albert Evans receives "The Shawshank Redemption"
+  Doris Harrison receives "Star Wars: Episode V - The Empire Strikes Back"
+  Susan Ford receives "A Fistful of Dollars"
+WARNING: Ed Miller currently has "The Treasure of the Sierra Madre"!
+Albert Kramer returns "The Shawshank Redemption"
+Albert Evans returns "The Shawshank Redemption"
+Elizabeth Brown returns "Taxi Driver"
+Harold Evans returns "Yojimbo"
+WARNING: Helen Roberts currently has "Amelie"!
+Ship DVDs
+  Albert Kramer receives "Taxi Driver"
+  Elizabeth Brown receives "Eternal Sunshine of the Spotless Mind"
+Georgiana Myers returns "Moulin Rouge"
+WARNING: Susan Ford currently has "The Shawshank Redemption"!
+WARNING: No movie named "Apocalypse Now" in the inventory
+Elizabeth Brown returns "Yojimbo"
+Harold Evans returns "American History X"
+Doris Harrison returns "The Sting"
+Ship DVDs
+  Doris Harrison receives "The Shawshank Redemption"
+  Elizabeth Brown receives "Amelie"
+Ed Miller returns "Lawrence of Arabia"
+WARNING: Georgiana Myers has no DVDs to return!
+Doris Harrison returns "The Shawshank Redemption"
+WARNING: Norman Jones already has "Lawrence of Arabia" on his/her preference list!
+Ship DVDs
+  Georgiana Myers receives "Lawrence of Arabia"
+  Ed Miller receives "Yojimbo"
+  Albert Evans receives "Moulin Rouge"
+Georgiana Myers returns "Lawrence of Arabia"
+Albert Evans returns "Moulin Rouge"
+Helen Roberts returns "Amelie"
+Norman Jones returns "Aliens"
+Ship DVDs
+  Helen Roberts receives "Yojimbo"
+  Norman Jones receives "Lawrence of Arabia"
+  Doris Harrison receives "Moulin Rouge"
+  Albert Evans receives "Aliens"
+WARNING: Ed Miller currently has "The Treasure of the Sierra Madre"!
+WARNING: No customer named Frank Kramer
+Elizabeth Brown returns "One Flew Over the Cuckoo's Nest"
+WARNING: Helen Roberts currently has "Eternal Sunshine of the Spotless Mind"!
+Doris Harrison returns "Moulin Rouge"
+Ship DVDs
+  Elizabeth Brown receives "Moulin Rouge"
+  Georgiana Myers receives "One Flew Over the Cuckoo's Nest"
+  Norman Jones receives "Moulin Rouge"
+Georgiana Myers returns "One Flew Over the Cuckoo's Nest"
+Albert Kramer returns "American History X"
+Susan Ford returns "The Shawshank Redemption"
+Elizabeth Brown returns "Eternal Sunshine of the Spotless Mind"
+Helen Roberts returns "Eternal Sunshine of the Spotless Mind"
+Doris Harrison returns "Grave of the Fireflies"
+Ship DVDs
+  Susan Ford receives "Grave of the Fireflies"
+  Albert Kramer receives "One Flew Over the Cuckoo's Nest"
+  Helen Roberts receives "The Good, the Bad and the Ugly"
+  Elizabeth Brown receives "Pan's Labyrinth"
+WARNING: No customer named Frank Kramer
+WARNING: Susan Ford already has "Aliens" on his/her preference list!
+Norman Jones returns "Lawrence of Arabia"
+Ship DVDs
+  Georgiana Myers receives "Amelie"
+WARNING: Harold Evans has no DVDs to return!
+WARNING: Helen Roberts currently has "Yojimbo"!
+Ship DVDs
+  Albert Evans receives "American History X"
+Georgiana Myers returns "Amelie"
+Albert Kramer returns "Pan's Labyrinth"
+Helen Roberts returns "One Flew Over the Cuckoo's Nest"
+Doris Harrison returns "Star Wars: Episode V - The Empire Strikes Back"
+Ship DVDs
+  Harold Evans receives "Star Wars: Episode V - The Empire Strikes Back"
+  Doris Harrison receives "One Flew Over the Cuckoo's Nest"
+  Albert Kramer receives "Lawrence of Arabia"
+Ed Miller has 3 movies:
+    "The Treasure of the Sierra Madre"
+    "Grave of the Fireflies"
+    "Yojimbo"
+  preference list:
+    "Taxi Driver"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "Kill Bill: Vol. 1"
+Georgiana Myers has no movies
+WARNING: No customer named Frank Kramer
+Susan Ford has 3 movies:
+    "The Treasure of the Sierra Madre"
+    "A Fistful of Dollars"
+    "Grave of the Fireflies"
+  preference list:
+    "Aliens"
+    "Lawrence of Arabia"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "American History X"
+    "Pan's Labyrinth"
+    "Amelie"
+Albert Evans has 2 movies:
+    "Aliens"
+    "American History X"
+Elizabeth Brown has 3 movies:
+    "Amelie"
+    "Moulin Rouge"
+    "Pan's Labyrinth"
+  preference list:
+    "Grave of the Fireflies"
+    "Aliens"
+    "The Treasure of the Sierra Madre"
+    "Lawrence of Arabia"
+    "Taxi Driver"
+Harold Evans has 1 movie:
+    "Star Wars: Episode V - The Empire Strikes Back"
+Helen Roberts has 2 movies:
+    "Yojimbo"
+    "The Good, the Bad and the Ugly"
+  preference list:
+    "Star Wars: Episode V - The Empire Strikes Back"
+Doris Harrison has 1 movie:
+    "One Flew Over the Cuckoo's Nest"
+Norman Jones has 1 movie:
+    "Moulin Rouge"
+  preference list:
+    "Grave of the Fireflies"
+"Yojimbo":
+  2 copies checked out
+"Moulin Rouge":
+  2 copies checked out and 1 copy available
+"Pan's Labyrinth":
+  1 copy checked out and 1 copy available
+"Amelie":
+  1 copy checked out and 1 copy available
+"Grave of the Fireflies":
+  2 copies checked out
+"The Treasure of the Sierra Madre":
+  2 copies checked out
+"2001: A Space Odyssey":
+  2 copies available
+"A Fistful of Dollars":
+  1 copy checked out and 2 copies available
+"The Sting":
+  3 copies available
+"American History X":
+  1 copy checked out and 1 copy available
+"The Shawshank Redemption":
+  5 copies available
+"Lawrence of Arabia":
+  1 copy checked out
+"Taxi Driver":
+  1 copy checked out
+"Aliens":
+  1 copy checked out
+"Star Wars: Episode V - The Empire Strikes Back":
+  1 copy checked out
+"The Good, the Bad and the Ugly":
+  1 copy checked out and 1 copy available
+"Eternal Sunshine of the Spotless Mind":
+  2 copies available
+"Kill Bill: Vol. 1":
+  3 copies available
+"One Flew Over the Cuckoo's Nest":
+  2 copies checked out
+"North by Northwest":
+  3 copies available
+Ed Miller has 3 movies:
+    "The Treasure of the Sierra Madre"
+    "Grave of the Fireflies"
+    "Yojimbo"
+  preference list:
+    "Taxi Driver"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "Kill Bill: Vol. 1"
+Georgiana Myers has no movies
+Albert Kramer has 3 movies:
+    "Taxi Driver"
+    "One Flew Over the Cuckoo's Nest"
+    "Lawrence of Arabia"
+  preference list:
+    "Aliens"
+    "The Treasure of the Sierra Madre"
+    "2001: A Space Odyssey"
+    "Grave of the Fireflies"
+    "A Fistful of Dollars"
+    "Yojimbo"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "The Good, the Bad and the Ugly"
+    "Amelie"
+Susan Ford has 3 movies:
+    "The Treasure of the Sierra Madre"
+    "A Fistful of Dollars"
+    "Grave of the Fireflies"
+  preference list:
+    "Aliens"
+    "Lawrence of Arabia"
+    "Star Wars: Episode V - The Empire Strikes Back"
+    "American History X"
+    "Pan's Labyrinth"
+    "Amelie"
+Albert Evans has 2 movies:
+    "Aliens"
+    "American History X"
+Elizabeth Brown has 3 movies:
+    "Amelie"
+    "Moulin Rouge"
+    "Pan's Labyrinth"
+  preference list:
+    "Grave of the Fireflies"
+    "Aliens"
+    "The Treasure of the Sierra Madre"
+    "Lawrence of Arabia"
+    "Taxi Driver"
+Harold Evans has 1 movie:
+    "Star Wars: Episode V - The Empire Strikes Back"
+Helen Roberts has 2 movies:
+    "Yojimbo"
+    "The Good, the Bad and the Ugly"
+  preference list:
+    "Star Wars: Episode V - The Empire Strikes Back"
+Doris Harrison has 1 movie:
+    "One Flew Over the Cuckoo's Nest"
+Norman Jones has 1 movie:
+    "Moulin Rouge"
+  preference list:
+    "Grave of the Fireflies"
+"Yojimbo":
+  2 copies checked out
+"Moulin Rouge":
+  2 copies checked out and 1 copy available
+"Pan's Labyrinth":
+  1 copy checked out and 1 copy available
+"Amelie":
+  1 copy checked out and 1 copy available
+"Grave of the Fireflies":
+  2 copies checked out
+"The Treasure of the Sierra Madre":
+  2 copies checked out
+"2001: A Space Odyssey":
+  2 copies available
+"A Fistful of Dollars":
+  1 copy checked out and 2 copies available
+"The Sting":
+  3 copies available
+"American History X":
+  1 copy checked out and 1 copy available
+"The Shawshank Redemption":
+  5 copies available
+"Lawrence of Arabia":
+  1 copy checked out
+"Taxi Driver":
+  1 copy checked out
+"Aliens":
+  1 copy checked out
+"Star Wars: Episode V - The Empire Strikes Back":
+  1 copy checked out
+"The Good, the Bad and the Ugly":
+  1 copy checked out and 1 copy available
+"Eternal Sunshine of the Spotless Mind":
+  2 copies available
+"Kill Bill: Vol. 1":
+  3 copies available
+"One Flew Over the Cuckoo's Nest":
+  2 copies checked out
+WARNING: No movie named "Apocalypse Now" in the inventory
