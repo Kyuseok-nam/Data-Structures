@@ -1,0 +1,964 @@
+Added 3 Teletubbie costumes.
+Added 1 Minnie_Mouse costume.
+Added 2 Superman costumes.
+Added 1 hobo costume.
+Added 5 king costumes.
+Added 5 Hermione_Granger costumes.
+Added 3 unicorn costumes.
+Added 1 Santa_Claus costume.
+Added 5 Klingon costumes.
+Added 3 squirrel costumes.
+Added 1 mailman costume.
+Added 1 panther costume.
+Added 5 cow costumes.
+Added 5 mermaid costumes.
+Added 4 rockstar costumes.
+Added 5 elf costumes.
+Added 2 magician costumes.
+Added 4 Power_Ranger costumes.
+Added 1 Elmo costume.
+Added 4 Harry_Potter costumes.
+Added 3 train_engineer costumes.
+Added 5 Hobbit costumes.
+Added 4 Peter_Pan costumes.
+Added 1 cyclops costume.
+Added 2 Gandalf costumes.
+Added 5 surgeon costumes.
+Added 3 genie costumes.
+Added 5 pirate costumes.
+Added 1 Mrs_Potatohead costume.
+Added 4 Tony_the_Tiger costumes.
+Jason Jackson rents a Santa_Claus costume.
+Carol Young rents a Tony_the_Tiger costume.
+Barbara Robinson rents a Hermione_Granger costume.
+Brian Walker rents a cow costume.
+Margaret Clark rents a squirrel costume.
+James Johnson rents a squirrel costume.
+Anthony Walker rents a elf costume.
+Shop info for Harry_Potter costumes:
+  4 copies available
+Deborah Davis rents a rockstar costume.
+Thomas Taylor rents a king costume.
+Ronald Smith rents a Peter_Pan costume.
+Michelle Smith rents a cow costume.
+Kenneth Smith rents a Power_Ranger costume.
+Carol Robinson rents a rockstar costume.
+Kenneth Moore rents a Tony_the_Tiger costume.
+Charles Moore rents a train_engineer costume.
+Kenneth Moore returns a Tony_the_Tiger costume before renting a king costume.
+Mark Jackson rents a Power_Ranger costume.
+Donald Brown rents a pirate costume.
+Susan Anderson rents a Klingon costume.
+Karen Walker rents a rockstar costume.
+Donald Brown returns a pirate costume before renting a magician costume.
+Michael Anderson rents a genie costume.
+Costume info for the 20 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a Klingon costume.
+  Donald Brown is wearing a magician costume.
+  Margaret Clark is wearing a squirrel costume.
+  Deborah Davis is wearing a rockstar costume.
+  Jason Jackson is wearing a Santa_Claus costume.
+  Mark Jackson is wearing a Power_Ranger costume.
+  James Johnson is wearing a squirrel costume.
+  Charles Moore is wearing a train_engineer costume.
+  Kenneth Moore is wearing a king costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Kenneth Smith is wearing a Power_Ranger costume.
+  Michelle Smith is wearing a cow costume.
+  Ronald Smith is wearing a Peter_Pan costume.
+  Thomas Taylor is wearing a king costume.
+  Anthony Walker is wearing a elf costume.
+  Brian Walker is wearing a cow costume.
+  Karen Walker is wearing a rockstar costume.
+  Carol Young is wearing a Tony_the_Tiger costume.
+Nancy Moore rents a unicorn costume.
+Helen Harris rents a mermaid costume.
+Shop info for mailman costumes:
+  1 copy available
+Lisa Thompson rents a rockstar costume.
+Kenneth Smith returns a Power_Ranger costume before renting a mailman costume.
+The shop doesn't carry fireman costumes.
+Elizabeth Jones rents a unicorn costume.
+Costume info for the 25 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a Klingon costume.
+  Donald Brown is wearing a magician costume.
+  Margaret Clark is wearing a squirrel costume.
+  Deborah Davis is wearing a rockstar costume.
+  Helen Harris is wearing a mermaid costume.
+  Jason Jackson is wearing a Santa_Claus costume.
+  Mark Jackson is wearing a Power_Ranger costume.
+  James Johnson is wearing a squirrel costume.
+  Elizabeth Jones is wearing a unicorn costume.
+  Charles Moore is wearing a train_engineer costume.
+  Kenneth Moore is wearing a king costume.
+  Nancy Moore is wearing a unicorn costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Kenneth Smith is wearing a mailman costume.
+  Michelle Smith is wearing a cow costume.
+  Ronald Smith is wearing a Peter_Pan costume.
+  Thomas Taylor is wearing a king costume.
+  Lisa Thompson is wearing a rockstar costume.
+  Anthony Walker is wearing a elf costume.
+  Brian Walker is wearing a cow costume.
+  Karen Walker is wearing a rockstar costume.
+  David Wilson does not have a costume.
+  Carol Young is wearing a Tony_the_Tiger costume.
+Donna Young rents a Power_Ranger costume.
+Thomas Taylor returns a king costume before renting a surgeon costume.
+Shop info for rockstar costumes:
+  4 copies rented by:
+    Deborah Davis
+    Carol Robinson
+    Karen Walker
+    Lisa Thompson
+Shop info for squirrel costumes:
+  1 copy available
+  2 copies rented by:
+    Margaret Clark
+    James Johnson
+Michelle Smith returns a cow costume before renting a elf costume.
+Elizabeth Jones returns a unicorn costume before renting a Minnie_Mouse costume.
+Brian Lewis rents a surgeon costume.
+Robert Rodriguez rents a panther costume.
+Donna Walker rents a cyclops costume.
+No rockstar costumes available.
+No cyclops costumes available.
+No rockstar costumes available.
+Patricia Lee rents a Power_Ranger costume.
+Elizabeth Jones returns a Minnie_Mouse costume before renting a magician costume.
+Nancy Williams rents a pirate costume.
+No rockstar costumes available.
+No rockstar costumes available.
+No panther costumes available.
+Shop info for Power_Ranger costumes:
+  1 copy available
+  3 copies rented by:
+    Mark Jackson
+    Donna Young
+    Patricia Lee
+The shop doesn't carry policeman costumes.
+No cyclops costumes available.
+Shop info for pirate costumes:
+  4 copies available
+  1 copy rented by:
+    Nancy Williams
+Mark Jackson returns a Power_Ranger costume before renting a train_engineer costume.
+Costume info for the 34 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a Klingon costume.
+  Donald Brown is wearing a magician costume.
+  Margaret Clark is wearing a squirrel costume.
+  Deborah Davis is wearing a rockstar costume.
+  Helen Harris is wearing a mermaid costume.
+  Jason Jackson is wearing a Santa_Claus costume.
+  Mark Jackson is wearing a train_engineer costume.
+  James Johnson is wearing a squirrel costume.
+  Elizabeth Jones is wearing a magician costume.
+  Patricia Lee is wearing a Power_Ranger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Sarah Martinez does not have a costume.
+  Charles Moore is wearing a train_engineer costume.
+  Kenneth Moore is wearing a king costume.
+  Nancy Moore is wearing a unicorn costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a panther costume.
+  James Smith does not have a costume.
+  Kenneth Smith is wearing a mailman costume.
+  Michelle Smith is wearing a elf costume.
+  Ronald Smith is wearing a Peter_Pan costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a rockstar costume.
+  Anthony Walker is wearing a elf costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  Karen Walker is wearing a rockstar costume.
+  Nancy Williams is wearing a pirate costume.
+  David Wilson does not have a costume.
+  Margaret Wilson does not have a costume.
+  Carol Young is wearing a Tony_the_Tiger costume.
+  Donna Young is wearing a Power_Ranger costume.
+No panther costumes available.
+The shop doesn't carry carpenter costumes.
+The shop doesn't carry lawyer costumes.
+Joseph Garcia rents a king costume.
+No rockstar costumes available.
+Shop info for rockstar costumes:
+  4 copies rented by:
+    Deborah Davis
+    Carol Robinson
+    Karen Walker
+    Lisa Thompson
+No mailman costumes available.
+Matthew Smith rents a Superman costume.
+Shop info for Teletubbie costumes:
+  3 copies available
+Margaret Clark returns a squirrel costume before renting a hobo costume.
+George Walker rents a Power_Ranger costume.
+David Williams rents a Tony_the_Tiger costume.
+No cyclops costumes available.
+Brian Clark rents a king costume.
+Shop info for squirrel costumes:
+  2 copies available
+  1 copy rented by:
+    James Johnson
+Ronald Smith returns a Peter_Pan costume before renting a pirate costume.
+Karen Walker returns a rockstar costume before renting a Tony_the_Tiger costume.
+Costume info for the 43 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a Klingon costume.
+  Donald Brown is wearing a magician costume.
+  Brian Clark is wearing a king costume.
+  Margaret Clark is wearing a hobo costume.
+  Deborah Davis is wearing a rockstar costume.
+  Joseph Garcia is wearing a king costume.
+  Helen Harris is wearing a mermaid costume.
+  Jason Jackson is wearing a Santa_Claus costume.
+  Mark Jackson is wearing a train_engineer costume.
+  James Johnson is wearing a squirrel costume.
+  Elizabeth Jones is wearing a magician costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Power_Ranger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Thomas Lewis does not have a costume.
+  Sarah Martinez does not have a costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a train_engineer costume.
+  Kenneth Moore is wearing a king costume.
+  Nancy Moore is wearing a unicorn costume.
+  Robert Moore does not have a costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a panther costume.
+  James Smith does not have a costume.
+  Kenneth Smith is wearing a mailman costume.
+  Matthew Smith is wearing a Superman costume.
+  Michelle Smith is wearing a elf costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a rockstar costume.
+  Anthony Walker is wearing a elf costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a Power_Ranger costume.
+  Karen Walker is wearing a Tony_the_Tiger costume.
+  David Williams is wearing a Tony_the_Tiger costume.
+  Nancy Williams is wearing a pirate costume.
+  David Wilson does not have a costume.
+  Margaret Wilson does not have a costume.
+  Carol Young is wearing a Tony_the_Tiger costume.
+  Donna Young is wearing a Power_Ranger costume.
+No panther costumes available.
+Sharon Lewis rents a Minnie_Mouse costume.
+Donald Jackson rents a pirate costume.
+David Wilson rents a king costume.
+Margaret Clark returns a hobo costume before renting a Hermione_Granger costume.
+Brian Clark returns a king costume before renting a hobo costume.
+Laura White rents a Klingon costume.
+George Walker returns a Power_Ranger costume before renting a Gandalf costume.
+Susan Anderson returns a Klingon costume before renting a elf costume.
+Shop info for Hermione_Granger costumes:
+  3 copies available
+  2 copies rented by:
+    Barbara Robinson
+    Margaret Clark
+Jennifer Lee rents a Mrs_Potatohead costume.
+Shop info for cow costumes:
+  4 copies available
+  1 copy rented by:
+    Brian Walker
+Nancy Moore returns a unicorn costume before renting a surgeon costume.
+Lisa Thompson returns a rockstar costume before renting a elf costume.
+Lisa Thompson returns a elf costume before renting a rockstar costume.
+Kenneth Moore returns a king costume before renting a surgeon costume.
+No cyclops costumes available.
+Jason Jackson returns a Santa_Claus costume before renting a elf costume.
+George Walker returns a Gandalf costume before renting a Power_Ranger costume.
+Michelle Smith returns a elf costume before renting a Tony_the_Tiger costume.
+Kenneth Smith returns a mailman costume before renting a Power_Ranger costume.
+Shop info for magician costumes:
+  2 copies rented by:
+    Donald Brown
+    Elizabeth Jones
+Brian Clark returns a hobo costume before renting a cow costume.
+Robert Rodriguez returns a panther costume before renting a elf costume.
+Jennifer Lee returns a Mrs_Potatohead costume before renting a panther costume.
+Kimberly Davis rents a squirrel costume.
+Shop info for train_engineer costumes:
+  1 copy available
+  2 copies rented by:
+    Charles Moore
+    Mark Jackson
+Matthew Smith returns a Superman costume before renting a elf costume.
+No cyclops costumes available.
+Susan Anderson returns a elf costume before renting a pirate costume.
+Carol Young returns a Tony_the_Tiger costume before renting a rockstar costume.
+No magician costumes available.
+Helen Harris returns a mermaid costume before renting a genie costume.
+Sandra Moore rents a hobo costume.
+No magician costumes available.
+No cyclops costumes available.
+Costume info for the 52 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a magician costume.
+  William Brown does not have a costume.
+  Brian Clark is wearing a cow costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Kimberly Davis is wearing a squirrel costume.
+  Joseph Garcia is wearing a king costume.
+  Helen Harris is wearing a genie costume.
+  Donald Jackson is wearing a pirate costume.
+  Jason Jackson is wearing a elf costume.
+  Mark Jackson is wearing a train_engineer costume.
+  James Johnson is wearing a squirrel costume.
+  Elizabeth Jones is wearing a magician costume.
+  Jennifer Lee is wearing a panther costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Power_Ranger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis does not have a costume.
+  Sarah Martinez does not have a costume.
+  Karen Miller does not have a costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a train_engineer costume.
+  Kenneth Moore is wearing a surgeon costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore does not have a costume.
+  Sandra Moore is wearing a hobo costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a elf costume.
+  James Smith does not have a costume.
+  Kenneth Smith is wearing a Power_Ranger costume.
+  Matthew Smith is wearing a elf costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a rockstar costume.
+  Anthony Walker is wearing a elf costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a Power_Ranger costume.
+  Karen Walker is wearing a Tony_the_Tiger costume.
+  Donna White does not have a costume.
+  Laura White is wearing a Klingon costume.
+  David Williams is wearing a Tony_the_Tiger costume.
+  Nancy Williams is wearing a pirate costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+No hobo costumes available.
+Kevin Jones rents a genie costume.
+No Power_Ranger costumes available.
+No Power_Ranger costumes available.
+No cyclops costumes available.
+Shop info for Santa_Claus costumes:
+  1 copy available
+Carol Smith rents a Hobbit costume.
+Shop info for Hobbit costumes:
+  4 copies available
+  1 copy rented by:
+    Carol Smith
+Mark Jackson returns a train_engineer costume before renting a Hobbit costume.
+Donald Jackson returns a pirate costume before renting a Elmo costume.
+No Power_Ranger costumes available.
+James Johnson returns a squirrel costume before renting a Hobbit costume.
+Kimberly Davis returns a squirrel costume before renting a Klingon costume.
+Shop info for elf costumes:
+  1 copy available
+  4 copies rented by:
+    Anthony Walker
+    Jason Jackson
+    Robert Rodriguez
+    Matthew Smith
+No Minnie_Mouse costumes available.
+Michael Martinez rents a cow costume.
+Brian Clark returns a cow costume before renting a squirrel costume.
+David Williams returns a Tony_the_Tiger costume before renting a king costume.
+Thomas Lewis rents a unicorn costume.
+Karen Jackson rents a Hermione_Granger costume.
+Costume info for the 57 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a magician costume.
+  William Brown does not have a costume.
+  Brian Clark is wearing a squirrel costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Joseph Garcia is wearing a king costume.
+  Helen Harris is wearing a genie costume.
+  Donald Jackson is wearing a Elmo costume.
+  Jason Jackson is wearing a elf costume.
+  Karen Jackson is wearing a Hermione_Granger costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a Hobbit costume.
+  Elizabeth Jones is wearing a magician costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a panther costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Power_Ranger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a unicorn costume.
+  Michael Martinez is wearing a cow costume.
+  Sarah Martinez does not have a costume.
+  Karen Miller does not have a costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a train_engineer costume.
+  Kenneth Moore is wearing a surgeon costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore does not have a costume.
+  Sandra Moore is wearing a hobo costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a elf costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith does not have a costume.
+  Kenneth Smith is wearing a Power_Ranger costume.
+  Matthew Smith is wearing a elf costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a rockstar costume.
+  Anthony Walker is wearing a elf costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a Power_Ranger costume.
+  Karen Walker is wearing a Tony_the_Tiger costume.
+  Donna White does not have a costume.
+  Laura White is wearing a Klingon costume.
+  David Williams is wearing a king costume.
+  Nancy Williams is wearing a pirate costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson does not have a costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+No cyclops costumes available.
+Margaret Hall rents a Hermione_Granger costume.
+Patricia Davis rents a Teletubbie costume.
+No genie costumes available.
+Donna White rents a cow costume.
+No genie costumes available.
+James Johnson returns a Hobbit costume before renting a mailman costume.
+Charles Moore returns a train_engineer costume before renting a Klingon costume.
+Patricia Davis returns a Teletubbie costume before renting a surgeon costume.
+No genie costumes available.
+Helen Harris returns a genie costume before renting a train_engineer costume.
+Donald Brown returns a magician costume before renting a pirate costume.
+Karen Miller rents a cow costume.
+No panther costumes available.
+Sandra Hall rents a cow costume.
+No cow costumes available.
+No surgeon costumes available.
+Barbara Robinson already has a Hermione_Granger costume.
+Patricia Davis returns a surgeon costume before renting a genie costume.
+Nancy Williams returns a pirate costume before renting a Hermione_Granger costume.
+Lisa Thompson returns a rockstar costume before renting a Klingon costume.
+No Minnie_Mouse costumes available.
+Anthony Walker returns a elf costume before renting a Klingon costume.
+No cyclops costumes available.
+No mailman costumes available.
+No cow costumes available.
+Shop info for train_engineer costumes:
+  2 copies available
+  1 copy rented by:
+    Helen Harris
+No panther costumes available.
+Robert Moore rents a Harry_Potter costume.
+Costume info for the 63 party attendees:
+  Michael Anderson is wearing a genie costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a pirate costume.
+  William Brown does not have a costume.
+  Brian Clark is wearing a squirrel costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Dorothy Davis does not have a costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Patricia Davis is wearing a genie costume.
+  Joseph Garcia is wearing a king costume.
+  Margaret Hall is wearing a Hermione_Granger costume.
+  Sandra Hall is wearing a cow costume.
+  Helen Harris is wearing a train_engineer costume.
+  Donald Jackson is wearing a Elmo costume.
+  Jason Jackson is wearing a elf costume.
+  Karen Jackson is wearing a Hermione_Granger costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a mailman costume.
+  Elizabeth Jones is wearing a magician costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a panther costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Power_Ranger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Maria Lewis does not have a costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a unicorn costume.
+  Michael Martinez is wearing a cow costume.
+  Sarah Martinez does not have a costume.
+  Karen Miller is wearing a cow costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a Klingon costume.
+  Kenneth Moore is wearing a surgeon costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore is wearing a Harry_Potter costume.
+  Sandra Moore is wearing a hobo costume.
+  Barbara Robinson is wearing a Hermione_Granger costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a elf costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith does not have a costume.
+  Kenneth Smith is wearing a Power_Ranger costume.
+  Matthew Smith is wearing a elf costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a Klingon costume.
+  Anthony Walker is wearing a Klingon costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a Power_Ranger costume.
+  Karen Walker is wearing a Tony_the_Tiger costume.
+  Donna White is wearing a cow costume.
+  Laura White is wearing a Klingon costume.
+  Matthew White does not have a costume.
+  David Williams is wearing a king costume.
+  Nancy Williams is wearing a Hermione_Granger costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson does not have a costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+Kenneth Moore returns a surgeon costume before renting a Harry_Potter costume.
+No cow costumes available.
+Karen Jackson returns a Hermione_Granger costume before renting a Hobbit costume.
+Shop info for Harry_Potter costumes:
+  2 copies available
+  2 copies rented by:
+    Robert Moore
+    Kenneth Moore
+No Minnie_Mouse costumes available.
+Shop info for king costumes:
+  2 copies available
+  3 copies rented by:
+    Joseph Garcia
+    David Wilson
+    David Williams
+Karen Walker returns a Tony_the_Tiger costume before renting a elf costume.
+Patricia Lee returns a Power_Ranger costume before renting a Tony_the_Tiger costume.
+Brian Clark returns a squirrel costume before renting a surgeon costume.
+Michael Anderson returns a genie costume before renting a magician costume.
+Barbara Robinson returns a Hermione_Granger costume before renting a pirate costume.
+No Elmo costumes available.
+Costume info for the 64 party attendees:
+  Michael Anderson is wearing a magician costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a pirate costume.
+  William Brown does not have a costume.
+  Brian Clark is wearing a surgeon costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Dorothy Davis does not have a costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Patricia Davis is wearing a genie costume.
+  Joseph Garcia is wearing a king costume.
+  Margaret Hall is wearing a Hermione_Granger costume.
+  Sandra Hall is wearing a cow costume.
+  Helen Harris is wearing a train_engineer costume.
+  Donald Jackson is wearing a Elmo costume.
+  Helen Jackson does not have a costume.
+  Jason Jackson is wearing a elf costume.
+  Karen Jackson is wearing a Hobbit costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a mailman costume.
+  Elizabeth Jones is wearing a magician costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a panther costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Tony_the_Tiger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Maria Lewis does not have a costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a unicorn costume.
+  Michael Martinez is wearing a cow costume.
+  Sarah Martinez does not have a costume.
+  Karen Miller is wearing a cow costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a Klingon costume.
+  Kenneth Moore is wearing a Harry_Potter costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore is wearing a Harry_Potter costume.
+  Sandra Moore is wearing a hobo costume.
+  Barbara Robinson is wearing a pirate costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a elf costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith does not have a costume.
+  Kenneth Smith is wearing a Power_Ranger costume.
+  Matthew Smith is wearing a elf costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a Klingon costume.
+  Anthony Walker is wearing a Klingon costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a Power_Ranger costume.
+  Karen Walker is wearing a elf costume.
+  Donna White is wearing a cow costume.
+  Laura White is wearing a Klingon costume.
+  Matthew White does not have a costume.
+  David Williams is wearing a king costume.
+  Nancy Williams is wearing a Hermione_Granger costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson does not have a costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+No magician costumes available.
+Shop info for genie costumes:
+  1 copy available
+  2 copies rented by:
+    Kevin Jones
+    Patricia Davis
+Joseph Garcia returns a king costume before renting a squirrel costume.
+Michael Martinez returns a cow costume before renting a Teletubbie costume.
+Thomas Lewis returns a unicorn costume before renting a Harry_Potter costume.
+No magician costumes available.
+Shop info for king costumes:
+  3 copies available
+  2 copies rented by:
+    David Wilson
+    David Williams
+Joseph Garcia already has a squirrel costume.
+No panther costumes available.
+No hobo costumes available.
+James Smith rents a Santa_Claus costume.
+William Brown rents a Power_Ranger costume.
+James Johnson returns a mailman costume before renting a Gandalf costume.
+George Walker returns a Power_Ranger costume before renting a rockstar costume.
+Costume info for the 64 party attendees:
+  Michael Anderson is wearing a magician costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a pirate costume.
+  William Brown is wearing a Power_Ranger costume.
+  Brian Clark is wearing a surgeon costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Dorothy Davis does not have a costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Patricia Davis is wearing a genie costume.
+  Joseph Garcia is wearing a squirrel costume.
+  Margaret Hall is wearing a Hermione_Granger costume.
+  Sandra Hall is wearing a cow costume.
+  Helen Harris is wearing a train_engineer costume.
+  Donald Jackson is wearing a Elmo costume.
+  Helen Jackson does not have a costume.
+  Jason Jackson is wearing a elf costume.
+  Karen Jackson is wearing a Hobbit costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a Gandalf costume.
+  Elizabeth Jones is wearing a magician costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a panther costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Tony_the_Tiger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Maria Lewis does not have a costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a Harry_Potter costume.
+  Michael Martinez is wearing a Teletubbie costume.
+  Sarah Martinez does not have a costume.
+  Karen Miller is wearing a cow costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a Klingon costume.
+  Kenneth Moore is wearing a Harry_Potter costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore is wearing a Harry_Potter costume.
+  Sandra Moore is wearing a hobo costume.
+  Barbara Robinson is wearing a pirate costume.
+  Carol Robinson is wearing a rockstar costume.
+  Robert Rodriguez is wearing a elf costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith is wearing a Santa_Claus costume.
+  Kenneth Smith is wearing a Power_Ranger costume.
+  Matthew Smith is wearing a elf costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a Klingon costume.
+  Anthony Walker is wearing a Klingon costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a rockstar costume.
+  Karen Walker is wearing a elf costume.
+  Donna White is wearing a cow costume.
+  Laura White is wearing a Klingon costume.
+  Matthew White does not have a costume.
+  David Williams is wearing a king costume.
+  Nancy Williams is wearing a Hermione_Granger costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson does not have a costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+Shop info for panther costumes:
+  1 copy rented by:
+    Jennifer Lee
+Kenneth Smith returns a Power_Ranger costume before renting a unicorn costume.
+No hobo costumes available.
+Carol Robinson returns a rockstar costume before renting a Tony_the_Tiger costume.
+Costume info for the 64 party attendees:
+  Michael Anderson is wearing a magician costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a pirate costume.
+  William Brown is wearing a Power_Ranger costume.
+  Brian Clark is wearing a surgeon costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Dorothy Davis does not have a costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Patricia Davis is wearing a genie costume.
+  Joseph Garcia is wearing a squirrel costume.
+  Margaret Hall is wearing a Hermione_Granger costume.
+  Sandra Hall is wearing a cow costume.
+  Helen Harris is wearing a train_engineer costume.
+  Donald Jackson is wearing a Elmo costume.
+  Helen Jackson does not have a costume.
+  Jason Jackson is wearing a elf costume.
+  Karen Jackson is wearing a Hobbit costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a Gandalf costume.
+  Elizabeth Jones is wearing a magician costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a panther costume.
+  Joseph Lee does not have a costume.
+  Patricia Lee is wearing a Tony_the_Tiger costume.
+  Brian Lewis is wearing a surgeon costume.
+  Maria Lewis does not have a costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a Harry_Potter costume.
+  Michael Martinez is wearing a Teletubbie costume.
+  Sarah Martinez does not have a costume.
+  Karen Miller is wearing a cow costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a Klingon costume.
+  Kenneth Moore is wearing a Harry_Potter costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore is wearing a Harry_Potter costume.
+  Sandra Moore is wearing a hobo costume.
+  Barbara Robinson is wearing a pirate costume.
+  Carol Robinson is wearing a Tony_the_Tiger costume.
+  Robert Rodriguez is wearing a elf costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith is wearing a Santa_Claus costume.
+  Kenneth Smith is wearing a unicorn costume.
+  Matthew Smith is wearing a elf costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a pirate costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a Klingon costume.
+  Anthony Walker is wearing a Klingon costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a rockstar costume.
+  Karen Walker is wearing a elf costume.
+  Donna White is wearing a cow costume.
+  Laura White is wearing a Klingon costume.
+  Matthew White does not have a costume.
+  David Williams is wearing a king costume.
+  Nancy Williams is wearing a Hermione_Granger costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson does not have a costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+Joseph Lee rents a genie costume.
+Sharon Wilson rents a Power_Ranger costume.
+Margaret Hall returns a Hermione_Granger costume before renting a elf costume.
+Charles Moore returns a Klingon costume before renting a Teletubbie costume.
+Matthew White rents a king costume.
+Ronald Smith returns a pirate costume before renting a rockstar costume.
+Sandra Moore returns a hobo costume before renting a mermaid costume.
+James Johnson returns a Gandalf costume before renting a king costume.
+Matthew Smith returns a elf costume before renting a cow costume.
+No rockstar costumes available.
+Brian Lewis returns a surgeon costume before renting a Tony_the_Tiger costume.
+George Williams rents a surgeon costume.
+Elizabeth Jones returns a magician costume before renting a Klingon costume.
+Joseph Lee returns a genie costume before renting a Peter_Pan costume.
+Barbara Robinson returns a pirate costume before renting a genie costume.
+No Klingon costumes available.
+No cow costumes available.
+James Johnson returns a king costume before renting a surgeon costume.
+No cow costumes available.
+No Minnie_Mouse costumes available.
+Jennifer Lee returns a panther costume before renting a squirrel costume.
+Robert Rodriguez returns a elf costume before renting a train_engineer costume.
+Sarah Martinez rents a train_engineer costume.
+Karen Walker returns a elf costume before renting a magician costume.
+Costume info for the 65 party attendees:
+  Michael Anderson is wearing a magician costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a pirate costume.
+  William Brown is wearing a Power_Ranger costume.
+  Brian Clark is wearing a surgeon costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Dorothy Davis does not have a costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Patricia Davis is wearing a genie costume.
+  Joseph Garcia is wearing a squirrel costume.
+  Margaret Hall is wearing a elf costume.
+  Sandra Hall is wearing a cow costume.
+  Helen Harris is wearing a train_engineer costume.
+  Donald Jackson is wearing a Elmo costume.
+  Helen Jackson does not have a costume.
+  Jason Jackson is wearing a elf costume.
+  Karen Jackson is wearing a Hobbit costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a surgeon costume.
+  Elizabeth Jones is wearing a Klingon costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a squirrel costume.
+  Joseph Lee is wearing a Peter_Pan costume.
+  Patricia Lee is wearing a Tony_the_Tiger costume.
+  Brian Lewis is wearing a Tony_the_Tiger costume.
+  Maria Lewis does not have a costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a Harry_Potter costume.
+  Michael Martinez is wearing a Teletubbie costume.
+  Sarah Martinez is wearing a train_engineer costume.
+  Karen Miller is wearing a cow costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a Teletubbie costume.
+  Kenneth Moore is wearing a Harry_Potter costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore is wearing a Harry_Potter costume.
+  Sandra Moore is wearing a mermaid costume.
+  Barbara Robinson is wearing a genie costume.
+  Carol Robinson is wearing a Tony_the_Tiger costume.
+  Robert Rodriguez is wearing a train_engineer costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith is wearing a Santa_Claus costume.
+  Kenneth Smith is wearing a unicorn costume.
+  Matthew Smith is wearing a cow costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a rockstar costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a Klingon costume.
+  Anthony Walker is wearing a Klingon costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a rockstar costume.
+  Karen Walker is wearing a magician costume.
+  Donna White is wearing a cow costume.
+  Laura White is wearing a Klingon costume.
+  Matthew White is wearing a king costume.
+  David Williams is wearing a king costume.
+  George Williams is wearing a surgeon costume.
+  Nancy Williams is wearing a Hermione_Granger costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson is wearing a Power_Ranger costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.
+The shop doesn't carry wolf costumes.
+No surgeon costumes available.
+Shop info for cyclops costumes:
+  1 copy rented by:
+    Donna Walker
+Anthony Walker returns a Klingon costume before renting a Gandalf costume.
+No surgeon costumes available.
+Shop info for rockstar costumes:
+  4 copies rented by:
+    Deborah Davis
+    Carol Young
+    George Walker
+    Ronald Smith
+No genie costumes available.
+Joseph Lee returns a Peter_Pan costume before renting a king costume.
+Jason Jackson returns a elf costume before renting a Gandalf costume.
+Matthew White returns a king costume before renting a squirrel costume.
+Kevin Miller rents a Klingon costume.
+No squirrel costumes available.
+Charles Moore returns a Teletubbie costume before renting a mailman costume.
+No train_engineer costumes available.
+No train_engineer costumes available.
+Costume info for the 66 party attendees:
+  Michael Anderson is wearing a magician costume.
+  Susan Anderson is wearing a pirate costume.
+  Donald Brown is wearing a pirate costume.
+  William Brown is wearing a Power_Ranger costume.
+  Brian Clark is wearing a surgeon costume.
+  Margaret Clark is wearing a Hermione_Granger costume.
+  Deborah Davis is wearing a rockstar costume.
+  Dorothy Davis does not have a costume.
+  Kimberly Davis is wearing a Klingon costume.
+  Patricia Davis is wearing a genie costume.
+  Joseph Garcia is wearing a squirrel costume.
+  Margaret Hall is wearing a elf costume.
+  Sandra Hall is wearing a cow costume.
+  Helen Harris is wearing a train_engineer costume.
+  Donald Jackson is wearing a Elmo costume.
+  Helen Jackson does not have a costume.
+  Jason Jackson is wearing a Gandalf costume.
+  Karen Jackson is wearing a Hobbit costume.
+  Mark Jackson is wearing a Hobbit costume.
+  James Johnson is wearing a surgeon costume.
+  Elizabeth Jones is wearing a Klingon costume.
+  Kevin Jones is wearing a genie costume.
+  Jennifer Lee is wearing a squirrel costume.
+  Joseph Lee is wearing a king costume.
+  Patricia Lee is wearing a Tony_the_Tiger costume.
+  Brian Lewis is wearing a Tony_the_Tiger costume.
+  Maria Lewis does not have a costume.
+  Sharon Lewis is wearing a Minnie_Mouse costume.
+  Thomas Lewis is wearing a Harry_Potter costume.
+  Michael Martinez is wearing a Teletubbie costume.
+  Sarah Martinez is wearing a train_engineer costume.
+  Karen Miller is wearing a cow costume.
+  Kevin Miller is wearing a Klingon costume.
+  Sharon Miller does not have a costume.
+  Charles Moore is wearing a mailman costume.
+  Kenneth Moore is wearing a Harry_Potter costume.
+  Nancy Moore is wearing a surgeon costume.
+  Robert Moore is wearing a Harry_Potter costume.
+  Sandra Moore is wearing a mermaid costume.
+  Barbara Robinson is wearing a genie costume.
+  Carol Robinson is wearing a Tony_the_Tiger costume.
+  Robert Rodriguez is wearing a train_engineer costume.
+  Carol Smith is wearing a Hobbit costume.
+  James Smith is wearing a Santa_Claus costume.
+  Kenneth Smith is wearing a unicorn costume.
+  Matthew Smith is wearing a cow costume.
+  Michelle Smith is wearing a Tony_the_Tiger costume.
+  Ronald Smith is wearing a rockstar costume.
+  Thomas Taylor is wearing a surgeon costume.
+  Lisa Thompson is wearing a Klingon costume.
+  Anthony Walker is wearing a Gandalf costume.
+  Brian Walker is wearing a cow costume.
+  Donna Walker is wearing a cyclops costume.
+  George Walker is wearing a rockstar costume.
+  Karen Walker is wearing a magician costume.
+  Donna White is wearing a cow costume.
+  Laura White is wearing a Klingon costume.
+  Matthew White is wearing a squirrel costume.
+  David Williams is wearing a king costume.
+  George Williams is wearing a surgeon costume.
+  Nancy Williams is wearing a Hermione_Granger costume.
+  David Wilson is wearing a king costume.
+  Margaret Wilson does not have a costume.
+  Sharon Wilson is wearing a Power_Ranger costume.
+  Carol Young is wearing a rockstar costume.
+  Donna Young is wearing a Power_Ranger costume.

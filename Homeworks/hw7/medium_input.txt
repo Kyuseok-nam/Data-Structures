@@ -1,0 +1,266 @@
+a Teletubbie 3
+a Minnie_Mouse 1
+a Superman 2
+a hobo 1
+a king 5
+a Hermione_Granger 5
+a unicorn 3
+a Santa_Claus 1
+a Klingon 5
+a squirrel 3
+a mailman 1
+a panther 1
+a cow 5
+a mermaid 5
+a rockstar 4
+a elf 5
+a magician 2
+a Power_Ranger 4
+a Elmo 1
+a Harry_Potter 4
+a train_engineer 3
+a Hobbit 5
+a Peter_Pan 4
+a cyclops 1
+a Gandalf 2
+a surgeon 5
+a genie 3
+a pirate 5
+a Mrs_Potatohead 1
+a Tony_the_Tiger 4
+r Jason Jackson Santa_Claus
+r Carol Young Tony_the_Tiger
+r Barbara Robinson Hermione_Granger
+r Brian Walker cow
+r Margaret Clark squirrel
+r James Johnson squirrel
+r Anthony Walker elf
+l Harry_Potter
+r Deborah Davis rockstar
+r Thomas Taylor king
+r Ronald Smith Peter_Pan
+r Michelle Smith cow
+r Kenneth Smith Power_Ranger
+r Carol Robinson rockstar
+r Kenneth Moore Tony_the_Tiger
+r Charles Moore train_engineer
+r Kenneth Moore king
+r Mark Jackson Power_Ranger
+r Donald Brown pirate
+r Susan Anderson Klingon
+r Karen Walker rockstar
+r Donald Brown magician
+r Michael Anderson genie
+p
+r Nancy Moore unicorn
+r Helen Harris mermaid
+l mailman
+r Lisa Thompson rockstar
+r Kenneth Smith mailman
+r David Wilson fireman
+r Elizabeth Jones unicorn
+p
+r Donna Young Power_Ranger
+r Thomas Taylor surgeon
+l rockstar
+l squirrel
+r Michelle Smith elf
+r Elizabeth Jones Minnie_Mouse
+r Brian Lewis surgeon
+r Robert Rodriguez panther
+r Donna Walker cyclops
+r Donna Young rockstar
+r Charles Moore cyclops
+r Robert Rodriguez rockstar
+r Patricia Lee Power_Ranger
+r Elizabeth Jones magician
+r Nancy Williams pirate
+r James Smith rockstar
+r Nancy Moore rockstar
+r Margaret Wilson panther
+l Power_Ranger
+r Lisa Thompson policeman
+r Sarah Martinez cyclops
+l pirate
+r Mark Jackson train_engineer
+p
+r Sharon Miller panther
+r Robert Moore carpenter
+r Robert Moore lawyer
+r Joseph Garcia king
+r Thomas Lewis rockstar
+l rockstar
+r Joseph Lee mailman
+r Matthew Smith Superman
+l Teletubbie
+r Margaret Clark hobo
+r George Walker Power_Ranger
+r David Williams Tony_the_Tiger
+r Sarah Martinez cyclops
+r Brian Clark king
+l squirrel
+r Ronald Smith pirate
+r Karen Walker Tony_the_Tiger
+p
+r Anthony Walker panther
+r Sharon Lewis Minnie_Mouse
+r Donald Jackson pirate
+r David Wilson king
+r Margaret Clark Hermione_Granger
+r Brian Clark hobo
+r Laura White Klingon
+r George Walker Gandalf
+r Susan Anderson elf
+l Hermione_Granger
+r Jennifer Lee Mrs_Potatohead
+l cow
+r Nancy Moore surgeon
+r Lisa Thompson elf
+r Lisa Thompson rockstar
+r Kenneth Moore surgeon
+r Karen Walker cyclops
+r Jason Jackson elf
+r George Walker Power_Ranger
+r Michelle Smith Tony_the_Tiger
+r Kenneth Smith Power_Ranger
+l magician
+r Brian Clark cow
+r Robert Rodriguez elf
+r Jennifer Lee panther
+r Kimberly Davis squirrel
+l train_engineer
+r Matthew Smith elf
+r Deborah Davis cyclops
+r Susan Anderson pirate
+r Carol Young rockstar
+r William Brown magician
+r Helen Harris genie
+r Sandra Moore hobo
+r Donna White magician
+r Karen Miller cyclops
+p
+r Karen Walker hobo
+r Kevin Jones genie
+r Robert Rodriguez Power_Ranger
+r Brian Clark Power_Ranger
+r Brian Walker cyclops
+l Santa_Claus
+r Carol Smith Hobbit
+l Hobbit
+r Mark Jackson Hobbit
+r Donald Jackson Elmo
+r Michael Anderson Power_Ranger
+r James Johnson Hobbit
+r Kimberly Davis Klingon
+l elf
+r Sharon Wilson Minnie_Mouse
+r Michael Martinez cow
+r Brian Clark squirrel
+r David Williams king
+r Thomas Lewis unicorn
+r Karen Jackson Hermione_Granger
+p
+r Matthew White cyclops
+r Margaret Hall Hermione_Granger
+r Patricia Davis Teletubbie
+r Joseph Garcia genie
+r Donna White cow
+r Joseph Garcia genie
+r James Johnson mailman
+r Charles Moore Klingon
+r Patricia Davis surgeon
+r Donna White genie
+r Helen Harris train_engineer
+r Donald Brown pirate
+r Karen Miller cow
+r Dorothy Davis panther
+r Sandra Hall cow
+r Ronald Smith cow
+r Charles Moore surgeon
+r Barbara Robinson Hermione_Granger
+r Patricia Davis genie
+r Nancy Williams Hermione_Granger
+r Lisa Thompson Klingon
+r Sharon Miller Minnie_Mouse
+r Anthony Walker Klingon
+r Michelle Smith cyclops
+r Maria Lewis mailman
+r Kenneth Moore cow
+l train_engineer
+r Nancy Williams panther
+r Robert Moore Harry_Potter
+p
+r Kenneth Moore Harry_Potter
+r Helen Jackson cow
+r Karen Jackson Hobbit
+l Harry_Potter
+r Barbara Robinson Minnie_Mouse
+l king
+r Karen Walker elf
+r Patricia Lee Tony_the_Tiger
+r Brian Clark surgeon
+r Michael Anderson magician
+r Barbara Robinson pirate
+r Thomas Lewis Elmo
+p
+r Maria Lewis magician
+l genie
+r Joseph Garcia squirrel
+r Michael Martinez Teletubbie
+r Thomas Lewis Harry_Potter
+r Helen Harris magician
+l king
+r Joseph Garcia squirrel
+r Donna Walker panther
+r Robert Moore hobo
+r James Smith Santa_Claus
+r William Brown Power_Ranger
+r James Johnson Gandalf
+r George Walker rockstar
+p
+l panther
+r Kenneth Smith unicorn
+r Laura White hobo
+r Carol Robinson Tony_the_Tiger
+p
+r Joseph Lee genie
+r Sharon Wilson Power_Ranger
+r Margaret Hall elf
+r Charles Moore Teletubbie
+r Matthew White king
+r Ronald Smith rockstar
+r Sandra Moore mermaid
+r James Johnson king
+r Matthew Smith cow
+r Brian Clark rockstar
+r Brian Lewis Tony_the_Tiger
+r George Williams surgeon
+r Elizabeth Jones Klingon
+r Joseph Lee Peter_Pan
+r Barbara Robinson genie
+r William Brown Klingon
+r Sandra Moore cow
+r James Johnson surgeon
+r Maria Lewis cow
+r Sharon Miller Minnie_Mouse
+r Jennifer Lee squirrel
+r Robert Rodriguez train_engineer
+r Sarah Martinez train_engineer
+r Karen Walker magician
+p
+r Donna White wolf
+r Karen Miller surgeon
+l cyclops
+r Anthony Walker Gandalf
+r David Wilson surgeon
+l rockstar
+r Karen Miller genie
+r Joseph Lee king
+r Jason Jackson Gandalf
+r Matthew White squirrel
+r Kevin Miller Klingon
+r Anthony Walker squirrel
+r Charles Moore mailman
+r David Wilson train_engineer
+r Donald Brown train_engineer
+p

@@ -1,0 +1,21 @@
+a ballerina 1
+a pirate 4
+a Popeye 1
+a transformer 2
+a Cinderella 1
+a ballerina 2
+l ballerina
+r Sharon Jackson pirate
+p
+r Paul Rodriguez pirate
+r Betty Lee Cinderella
+r Betty Lee transformer
+r Sharon Jackson transformer
+l pirate
+l transformer
+l skeleton
+r Paul Rodriguez pirate
+r Mary Brown transformer
+r Betty Lee witch
+l Cinderella
+p
